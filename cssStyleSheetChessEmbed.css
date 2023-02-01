@@ -1,0 +1,21 @@
+h1 {
+    
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.chessLink {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    color: #F2DEBA;
+    background-color: #820000;
+    font-family: "Times New Roman";
+}
